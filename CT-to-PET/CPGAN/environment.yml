@@ -1,0 +1,31 @@
+name: cyc_gan_2d
+channels:
+  - conda-forge
+  - pytorch
+  - plotly
+  - anaconda
+  - pip
+dependencies:
+  - python=3.10.5
+  - numpy=1.22.4
+  - pandas=1.4.2
+  - matplotlib=3.5.2
+  - seaborn=0.11.2
+  - plotly=5.8.2
+  - python-kaleido=0.2.1
+  - scikit-learn=1.1.1
+  - tqdm=4.64.0
+  - torchinfo=1.7.0
+  - torchmetrics
+  #0.9.1
+  - jupyter=1.0.0
+  - shap=0.41.0
+  - pytorch=1.11.0
+  - torchvision=0.12.0
+  - torchaudio=0.11.0
+  - cudatoolkit=11.3
+  - pytorch-lightning=1.9.0
+  - pip
+  - pip:
+    - tensorboard
+    - torch-fidelity
