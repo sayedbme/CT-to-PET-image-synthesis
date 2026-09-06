@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Md. Abu
+  given-names: Sayed
+orcid: https://orcid.org/0009-0004-5821-4287
+title:sayedbme/CT-to-PET-image-synthesis: Region-aware CT-to-PET image synthesis using deep learning models for accurate lung cancer localization
+version: CT_to_PET
+date-released: 2026-09-05
