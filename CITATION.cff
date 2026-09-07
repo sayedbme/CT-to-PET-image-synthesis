@@ -1,33 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-
-title: "Region-aware CT-to-PET image synthesis using deep learning models for accurate lung cancer localization"
-version: "CT_to_PET"
-date-released: 2026-09-05
-doi: "10.5281/zenodo.22419027"
-url: "https://github.com/sayedbme/CT-to-PET-image-synthesis"
-type: software
-
 authors:
-
-* family-names: "Sayed"
+- family-names: "Sayed"
   given-names: "Md. Abu"
   orcid: "https://orcid.org/0009-0004-5821-4287"
-
-* family-names: "Rahman"
+- family-names: "Rahman"
   given-names: "Ashiqur"
-
-* family-names: "Rahman"
+- family-names: "Rahman"
   given-names: "G.M. Mahmudur"
-
-* family-names: "Islam"
+- family-names: "Islam"
   given-names: "Md. Sherajul"
-
-* family-names: "Chowdhury"
+- family-names: "Chowdhury"
   given-names: "Muhammad E. H."
-
-* family-names: "Park"
+- family-names: "Park"
   given-names: "Jeongwon"
-
-* family-names: "Kadir"
+- family-names: "Kadir"
   given-names: "Muhammad Abdul"
+title: "Region-aware CT-to-PET image synthesis using deep learning models for accurate lung cancer localization"
+version: 1.0.0
+doi: "10.5281/zenodo.22419027"
+date-released: 2026-09-05
+url: "https://github.com/sayedbme/CT-to-PET-image-synthesis"
